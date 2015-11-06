@@ -1,0 +1,2 @@
+# Fibonacci comparison
+	$ ./fib.sh
