@@ -23,3 +23,7 @@ echo --------------------
 echo Ruby
 time ruby ./fib.rb
 echo --------------------
+
+echo JavaScript
+time node ./fib.js
+echo --------------------
